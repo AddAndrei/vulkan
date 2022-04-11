@@ -1,0 +1,17 @@
+{
+    "name": "abdrei/patterns",
+    "autoload": {
+        "psr-4": {
+            "App\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "andrei bowers",
+            "email": "andrei.add@yandex.ru"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.2"
+    }
+}
